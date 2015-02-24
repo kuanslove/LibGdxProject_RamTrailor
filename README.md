@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 TeamChrysler
 ============
 
@@ -16,3 +15,6 @@ The game engine is based on LibGdx.
 Kuan Xing
 kuanslove@gmail.com
 
+
+![Alt text](/ScreenShot/Screenshot_2013-10-08-14-44-41.png?raw=true "Optional Title")
+![Alt text](/ScreenShot/Screenshot_2013-10-08-14-44-31.png?raw=true "Optional Title")
