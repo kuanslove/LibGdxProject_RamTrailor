@@ -7,7 +7,9 @@ Android Game development for Chrysler MindTrekker program
 We developed a RAM truck trailor towing game, with on-Screen Button user interaction
 and Menu UI system.
 
-The game engine is based on LibGdx Box2D Physic Engine.
+The game engine is based on LibGdx Box2D Physic Engine. 
+
+Demo video: https://www.youtube.com/watch?v=5PNfOnLaaiE
 
 
 
